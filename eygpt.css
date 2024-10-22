@@ -1,0 +1,25 @@
+body {
+    background-color: peachpuff;
+    font-family: sans-serif;
+
+}
+nav ul {
+    background-color: sandybrown;
+    border-style:  solid;
+    border-width: 2px;
+    border-color: seashell;
+    padding:10px ;
+    border-radius: 10px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+
+}
